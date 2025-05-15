@@ -4,7 +4,8 @@
 
 # 📖 OPENBOOK - Offline Document Q&A with AI
 
-![Demo](demo.gif) *(Add demo GIF later)*
+![image](https://github.com/user-attachments/assets/5d3c9aff-0913-4afc-af0e-079da248f687)
+
 
 **Ask questions about your PDFs/textbooks—100% offline, no data leaks.** Powered by Mistral-7B and FAISS for lightning-fast, private document analysis.
 
